@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.DeclineCodes.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.DeclineCodes\Soenneker.Stripe.Enums.DeclineCodes.csproj" />
     </ItemGroup>
 
     <ItemGroup>
