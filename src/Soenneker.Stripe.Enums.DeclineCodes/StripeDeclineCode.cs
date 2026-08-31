@@ -3,7 +3,7 @@ using Soenneker.Gen.EnumValues;
 namespace Soenneker.Stripe.Enums.DeclineCodes;
 
 /// <summary>
-/// A strongly-typed list of Stripe card decline codes, used to identify and respond to specific card failure reasons.
+/// Represents a Stripe decline code returned for a failed payment attempt.
 /// </summary>
 [EnumValue<string>]
 public partial class StripeDeclineCode
